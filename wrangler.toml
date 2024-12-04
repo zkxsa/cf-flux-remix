@@ -16,10 +16,10 @@ enabled = true
 
 [vars]
 CF_ACCOUNT_LIST = '''[{
-    "account_id":"7e2a9b8ffa9c02323412afc37d4928cd",
-    "token":"mx_Ol5dhYfbnXJe3okBRAv4rk81bWWSr_gTaskKC"
+    "account_id":"xxx",
+    "token":"xxxxx"
 }]'''
-API_KEY = "hYfbnXJe3o@l5dk"
+API_KEY = "xxxxxxx"
 CF_TRANSLATE_MODEL = "@cf/qwen/qwen1.5-14b-chat-awq"
 CF_IS_TRANSLATE = "true"
 USE_EXTERNAL_API = "false"
