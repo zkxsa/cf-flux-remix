@@ -26,7 +26,7 @@ CF Flux Remix 是一个基于 Cloudflare Workers 和 Remix 框架的图像生成
    ```bash
    https://github.com/yourusername/cf-flux-remix
    ```
-
+   
 2. 完成部署：
   在CloudFlare中操作
    ```bash
@@ -53,7 +53,7 @@ CF Flux Remix 是一个基于 Cloudflare Workers 和 Remix 框架的图像生成
 ### 开发
 
 运行开发服务器：
-```
+``
 pnpm run dev
 ```
 
