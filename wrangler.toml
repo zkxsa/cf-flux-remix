@@ -1,5 +1,5 @@
 # Worker 名称,与CF中的Worker名称必须一致
-name = "free-flux"
+name = "freeflux"
 
 # 兼容性日期，确保使用最新的 Workers 运行时功能
 compatibility_date = "2024-10-04"
@@ -16,10 +16,10 @@ enabled = true
 
 [vars]
 CF_ACCOUNT_LIST = '''[{
-    "account_id":"你的CloudFlare帐户ID",
-    "token":"有Workers AI权限的API令牌"
+    "account_id":"7e2a9b8ffa9c02323412afc37d4928cd",
+    "token":"mx_Ol5dhYfbnXJe3okBRAv4rk81bWWSr_gTaskKC"
 }]'''
-API_KEY = "your_api_key_here"
+API_KEY = "hYfbnXJe3o@l5dk"
 CF_TRANSLATE_MODEL = "@cf/qwen/qwen1.5-14b-chat-awq"
 CF_IS_TRANSLATE = "true"
 USE_EXTERNAL_API = "false"
